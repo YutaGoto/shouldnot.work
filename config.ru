@@ -15,6 +15,7 @@ get '/' do
         font-size: 5rem;
         display: table-cell;
         vertical-align: middle;
+        color: #3c4a60;
       }
       footer {
         position: absolute;
@@ -33,6 +34,9 @@ get '/' do
             '働いたら負け',
             'YOU SHOULD NOT WORK!',
             '労働は悪',
+            '너는 일하면 안된다!',
+            '你不应该工作！',
+            '労働禁止！',
           ].sample
         }
       </h1>

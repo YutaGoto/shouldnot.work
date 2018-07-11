@@ -15,7 +15,6 @@ get '/' do
         font-size: 5rem;
         display: table-cell;
         vertical-align: middle;
-        color: #3c4a60;
       }
       footer {
         position: absolute;
